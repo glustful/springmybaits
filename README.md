@@ -1,2 +1,4 @@
 # springmybaits
 maven_spring_springmvc_mybatis_freemarker配置实例
+简单源码，需要安装mysql,需要建立两张表做测试
+数据库与表名看下源码配置就知道了
